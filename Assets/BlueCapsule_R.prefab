@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4835874854244060865}
   - component: {fileID: 4547060501576596054}
   m_Layer: 0
-  m_Name: BlueCapsule
+  m_Name: BlueCapsule_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
